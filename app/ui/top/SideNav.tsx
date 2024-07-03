@@ -11,7 +11,7 @@ export default function SideNav() {
         className="mb-2 flex h-20 items-end justify-start rounded-md bg-green-600 p-5 md:h-40"
         href="/top"
       >
-        <div className="w-auto text-white md:w-40">
+        <div className="w-auto text-white">
           <AppLogo />
         </div>
       </Link>

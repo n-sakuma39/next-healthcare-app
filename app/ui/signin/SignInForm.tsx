@@ -65,7 +65,10 @@ export default function SignInForm() {
           </div>
           <br />
           <div className="text-right">
-            アカウントを作成する場合は<Link href={'/signup'}>こちら</Link>
+            アカウントを作成する場合は
+            <Link href={'/signup'} className="underline">
+              こちら
+            </Link>
           </div>
         </div>
       </div>

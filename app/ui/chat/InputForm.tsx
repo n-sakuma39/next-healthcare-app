@@ -31,7 +31,7 @@ const InputForm = ({ onSubmit }: InputFormProps) => {
       />
       <button
         type="submit"
-        className="ml-4 px-4 py-2 bg-green-500 text-white rounded-lg focus:outline-none"
+        className="ml-4 px-4 py-2 bg-blue-500 text-white rounded-lg focus:outline-none"
       >
         送信
       </button>
