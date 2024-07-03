@@ -62,5 +62,3 @@ DB のテーブル定義は `scripts/seed.js` に記載。
 ## 著者
 
 [SakuTech blog](https://github.com/n-sakuma39/)
-
-# next-healthcare-app
